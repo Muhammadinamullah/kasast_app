@@ -1,0 +1,4 @@
+#Fri Jul 30 19:55:20 PKT 2021
+base.0=I\:\\Flutter_Vs_Code_Projects\\kasast\\kasast_flutter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
